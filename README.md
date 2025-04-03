@@ -11,6 +11,11 @@ el codigo para la predicción a tiempo real. Las plantas de cultivo incluidas so
 - Maíz
 - Pimentón
 
+#### Video Demo⬇️⬇️⬇️:  
+[![Alt text](https://img.youtube.com/vi/_m_33U92AFc/0.jpg)](https://www.youtube.com/watch?v=_m_33U92AFc)
+
+<[Video](https://youtu.be/_m_33U92AFc?si=kFwFkH6B7NVwEKyk)>
+
 ## 📚 Librerías utilizadas  
 | Librería                | Uso principal                                                                 |
 |-------------------------|------------------------------------------------------------------------------|
@@ -26,7 +31,7 @@ el codigo para la predicción a tiempo real. Las plantas de cultivo incluidas so
 ## 📂 Dataset
 - **Fuente:** [Kaggle](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset) 
 - **Datos incluidos:**
-  - Imagenas a color, escala de grises y segmentadas de las siguientes plantas de cultivo:
+  - Imagenas a color, escala de grises y segmentadas de las siguientes plantas de cultivo, incluyendo enfermedades para cada una:
     - Manzana (Apple)
     - Arándano (Blueberry)
     - Cereza (Cherry)
